@@ -1,7 +1,11 @@
- # Helios - Blockchain Engineer in Training
+# Blockchain Engineer Training Journey
    
-   🎯 Week 1/18 - JavaScript Fundamentals
+   ## Week 1: JavaScript Fundamentals
    
-   Starting my 18-week journey to full-stack blockchain development.
+   ### Day 1 - October 8, 2025
+   Started at 4 PM due to schedule adjustment.
    
-   More updates coming soon!
+   **Focus:** Environment setup + JavaScript basics
+   **Hours Available:** 4.5 hours
+   
+   [Will update tonight]
