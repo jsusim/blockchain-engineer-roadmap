@@ -45,3 +45,53 @@
 
 **Energy Level:** 8/10
 **Satisfaction:** Made progress despite late start!
+
+### Day 2 - October 11, 2025 ✅
+
+**Started:** 1:00 PM
+**Ended:** 11:30 PM
+**Hours Invested:** 10.5 hours (went over schedule)
+
+**What I Completed:**
+✅ Completed 38 FreeCodeCamp basic JavaScript exercises
+✅ Reached conditionals section
+
+**Topics Covered:**
+- String methods and manipulation
+- Array methods (push, pop, shift, unshift)
+- Functions and return values
+- Variable scope
+
+**FreeCodeCamp Progress:**
+- Total challenges completed: [Your count - around 68-80?]
+
+**What I Learned:**
+- Functions
+- shifts
+
+**Challenges Faced:**
+- Took longer than expected (10.5 hours vs planned 6.5)
+- Still time adjustment
+
+**Key Takeaways:**
+- The 38 exercises were necessary foundation
+- Need to improve pacing for Day 3
+
+**What I'm Proud Of:**
+- Finished all 38 exercises despite long session
+- Stayed focused for 10+ hours
+- Didn't give up when it took longer
+
+**Tomorrow's Goals:**
+- Start at 1 PM sharp
+- Complete conditionals section
+- Complete loops section  
+- Build at least 1 project
+- Stick to 6.5-hour schedule (end by 8:30 PM)
+
+**Energy Level:** [_7_/10]
+**Focus Quality:** [_5_/10]
+**Satisfaction:** [_8_/10]
+
+**Notes:**
+Day took much longer than planned. Will adjust pacing for Day 3.
